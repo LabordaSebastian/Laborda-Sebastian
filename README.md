@@ -1,4 +1,4 @@
-# Laborda-Sebastian
+# LabordaSebastian
 # 💫 About Me:
 Estudiante de ingenieria en Telecomunicaciones
 
